@@ -1,0 +1,16 @@
+{
+    "require": {
+        "illuminate/database": "6.3.0",
+        "chriskacerguis/codeigniter-restserver": "^3.0.3",
+        "larapack/dd": "^1.1",
+        "guzzlehttp/guzzle": "^6.4.1",
+        "ext-json": "^1.1"
+    },
+    "autoload": {
+        "classmap": [
+            "application/models"
+        ]
+    },
+    "require-dev": {
+    }
+}
